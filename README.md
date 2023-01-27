@@ -18,7 +18,7 @@ Hi, I'm Kartik Saha, a passionate about Data Science and Artificial Intelligence
 <br>
 <h2 align="left">🚀 Connect with me:</h3>
 <p align="left">
-<a href="https://kartiksaha802.wixsite.com/mysite" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" alt="https://twitter.com/ketan_gangal" height="30" width="40" /></a>
+<a href="https://kartiksaha802.wixsite.com/mysite" target="blank"><img align="center" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="https://twitter.com/ketan_gangal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kartiksaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-gangal/" height="30" width="40" /></a>
   
 </p>
