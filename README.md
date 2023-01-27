@@ -8,8 +8,8 @@ Hi, I'm Kartik Saha, a passionate Data Scientist. I am enhancing my knowledge wi
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="300" />
+
+ 
  </p>
 <br>
 <h2 align="left"> 👨‍💻 Languages and Tools:</h3>
