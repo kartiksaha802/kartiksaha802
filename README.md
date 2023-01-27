@@ -1,10 +1,10 @@
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ketangangal.ketangangal)
+
 
 Hi, I'm Kartik Saha, a passionate Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science. I have worked in various data science projects, and I have a track record of successfully implementing data science pipelines in production with practical expertise using ML-Ops, deep learning & machine learning. I also Love sequence Processing because it is deeply inspired by humans as our feeling, thoughts, emotions, sensations, language are sequential in nature if we can enable machine to understand sequence of information and act accordingly we can make significant progress towards true artificial intelligence.
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 
 <p align="center">
