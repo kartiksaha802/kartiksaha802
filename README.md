@@ -20,7 +20,6 @@ Hi, I'm Kartik Saha, a passionate Data Scientist. I am enhancing my knowledge wi
 <p align="left">
 <a href="https://kartiksaha802.wixsite.com/mysite" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" alt="https://twitter.com/ketan_gangal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kartiksaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-gangal/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ketangangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ketangangal" height="30" width="40" /></a>
   
 </p>
 <br>
