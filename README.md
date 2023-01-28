@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Kartik Saha, a passionate about Data Science and Artificial Intelligence. I am enhancing my knowledge with the latest development in the field of Data Science. I have worked in various data science projects, and I have a track record of successfully implementing data science pipelines in production with practical expertise using ML-Ops, deep learning & machine learning. I also Love sequence Processing because it is deeply inspired by humans as our feeling, thoughts, emotions, sensations, language are sequential in nature if we can enable machine to understand sequence of information and act accordingly we can make significant progress towards true artificial intelligence.
+Greetings, I am Kartik Saha, an enthusiast in the realms of Data Science and Artificial Intelligence. I am continuously expanding my understanding of the latest advancements in Data Science. I possess hands-on experience working on a variety of data science projects and have a proven track record of successfully deploying data science pipelines in real-world settings through the use of ML-Ops, deep learning, and machine learning. Additionally, I am greatly captivated by sequence processing as it mirrors the sequential nature of human emotions, thoughts, sensations, and language. By enabling machines to comprehend sequences of information and respond accordingly, we can make significant strides towards true artificial intelligence.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
